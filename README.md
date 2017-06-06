@@ -1,2 +1,1 @@
-# Industrial
-Industrial - верстка адаптивной страницы
+﻿# ash.github.io
