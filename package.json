@@ -4,6 +4,7 @@
   "private": true,
   "description": "Личный проект",
   "devDependencies": {
+    "editorconfig-cli": "0.2.1",
     "autoprefixer": "6.7.x",
     "browser-sync": "2.18.8",
     "css-mqpacker": "^5.0.1",
